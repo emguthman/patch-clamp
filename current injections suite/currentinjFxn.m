@@ -110,7 +110,7 @@ if noRuns == 1
     %get color range
     colorShift = 1-max(inputs.plotColot);
     for ii = 1:3
-        cRange(:,ii) = inputs.plotColor(ii):1/noSweeps:inputs.plotColor(ii)+colorShift;
+        cRange(:,ii) = inputs.plotColor(ii):colorShift/noSweeps:inputs.plotColor(ii)+colorShift;
     end
     
     %plot

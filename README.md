@@ -12,5 +12,5 @@ Most scripts were written by E Mae Guthman, with some noted exceptions:
 %   Extended to abf version 2.0 by Forrest Collman (fcollman@Princeton.edu)
 %   pvpmod.m by Ulrich Egert (egert@bccn.uni-freiburg.de)
 
-For questions, please reach Mae at [email to be updated]@ucdenver.edu
-Updated: 04-26-2019
+For questions, please reach Mae at mae.guthman@ucdenver.edu
+Updated: 05-24-2019
